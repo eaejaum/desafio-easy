@@ -2,7 +2,7 @@
 
 Este projeto contém uma implementação para verificar se a string possui todas as suas letras maiúsculas, minúsculas ou sua primeira letra maiúscula e as demais mínusculas. Além de fazer validação e tratamento, caso nenhuma dessas condições seja verdadeira ou caso a string seja vazia ou nula.
 
-source: [LeetCode](https://leetcode.com/problems/detect-capital/description/)
+submission: [LeetCode](https://leetcode.com/problems/detect-capital/submissions/1535303974/)
 
 ## Descrição do Algoritmo
 
