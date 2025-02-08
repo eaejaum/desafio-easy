@@ -6,5 +6,7 @@
         Console.WriteLine(solution.DetectCapitalUse("USA"));
         Console.WriteLine(solution.DetectCapitalUse("leetcode"));
         Console.WriteLine(solution.DetectCapitalUse("Google"));       
+        Console.WriteLine(solution.DetectCapitalUse("FlaG"));
+        Console.WriteLine(solution.DetectCapitalUse(""));
     }
 }
