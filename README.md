@@ -21,7 +21,7 @@ Optei pelo uso do AsSpan para melhorar a performance e simplificar o código. Co
 
 ### Considerações
 
-Vale resaltar que optei por manter um código limpo, simples e ao mesmo tempo perfomático. Haviam outras formas mais perfomáticas que resolveriam o problema um pouco mais rápido, como por exemplo usar BitWise Shift, mas avaliei e o código ficaria muito poluido e mais extenso, então, decidi manter meu código conciso e compacto.
+Vale ressaltar que optei por manter um código limpo, simples e ao mesmo tempo performático. Haviam outras formas mais performáticas que resolveriam o problema um pouco mais rápido, como por exemplo usar BitWise Shift, mas avaliei e o código ficaria muito poluido e mais complexo, então decidi manter meu código conciso e simples, porém, performático de forma equivalente.
 
 ## Resultado final
 ![leetcode result](./assets/leetcode-result.png)
